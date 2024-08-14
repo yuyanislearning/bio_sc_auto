@@ -1,0 +1,11 @@
+Pathogenic variants in genes that cause dilated (DCM) and arrhythmogenic cardiomyopathies (ACM) convey high risks for the development of heart failure through unknown mechanisms. 
+Using single nucleus RNA sequencing (snRNAseq), we characterized the transcriptome of 880000 nuclei from 18 control and 61 failing, non-ischemic human hearts with pathogenic variants in DCM and ACM genes or idiopathic disease. 
+We performed genotype-stratified analyses of the ventricular cell lineages and transcriptional states. 
+The resultant DCM and ACM ventricular cell atlas demonstrated distinct right and left ventricular responses, highlighting genotype-associated pathways, intercellular interactions, and differential gene expression at single cell resolution. 
+Together these data illuminate both shared and distinct cellular and molecular architectures of human heart failure and suggest candidate therapeutic targets. The dataset in question is 'Data/compos.h5ad', which is in h5ad format. 
+Using python as the primary coding language. Please calculate the pseudotime and visualize it in a figure.
+
+Quesetion:
+The dataset in question is 'Data/origin.h5ad', which is in h5ad format. Using python as the primary coding language.
+Please perform a differential expression analysis comparing the group of 'sex'
+Please visualize the figure in a volcano plot.

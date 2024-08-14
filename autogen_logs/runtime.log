@@ -1,0 +1,83 @@
+Started new session with Session ID: 376b4d7c-3909-4194-a75a-d704509eff94
+[file_logger] Failed to log event Object of type OpenAIWrapper is not JSON serializable
+{"client_id": 6259122416, "wrapper_id": 6250494144, "session_id": "376b4d7c-3909-4194-a75a-d704509eff94", "class": "OpenAI", "json_state": "{\"base_url\": \"https://api.openai.com/v1/\", \"api_key\": null}", "timestamp": "2024-08-14 19:57:03.041864", "thread_id": 8612746752}
+[file_logger] Failed to log new agent: could not find class definition
+[file_logger] Failed to log new agent: could not find class definition
+[file_logger] Failed to log event Object of type OpenAIWrapper is not JSON serializable
+{"client_id": 6250630800, "wrapper_id": 6250494336, "session_id": "376b4d7c-3909-4194-a75a-d704509eff94", "class": "OpenAI", "json_state": "{\"base_url\": \"https://api.openai.com/v1/\", \"api_key\": null}", "timestamp": "2024-08-14 19:57:03.138313", "thread_id": 8612746752}
+[file_logger] Failed to log new agent: could not find class definition
+[file_logger] Failed to log new agent: could not find class definition
+Started new session with Session ID: 606c9719-e1f7-4e1e-b895-d296948540bf
+[file_logger] Failed to log event Object of type OpenAIWrapper is not JSON serializable
+{"client_id": 6248361872, "wrapper_id": 6248187376, "session_id": "606c9719-e1f7-4e1e-b895-d296948540bf", "class": "OpenAI", "json_state": "{\"base_url\": \"https://api.openai.com/v1/\", \"api_key\": null}", "timestamp": "2024-08-14 19:57:34.505411", "thread_id": 8609367552}
+[file_logger] Failed to log new agent: could not find class definition
+[file_logger] Failed to log new agent: could not find class definition
+[file_logger] Failed to log event Object of type OpenAIWrapper is not JSON serializable
+{"client_id": 6258226768, "wrapper_id": 6248681536, "session_id": "606c9719-e1f7-4e1e-b895-d296948540bf", "class": "OpenAI", "json_state": "{\"base_url\": \"https://api.openai.com/v1/\", \"api_key\": null}", "timestamp": "2024-08-14 19:57:34.567745", "thread_id": 8609367552}
+[file_logger] Failed to log new agent: could not find class definition
+[file_logger] Failed to log new agent: could not find class definition
+[file_logger] Failed to log event Object of type OpenAIWrapper is not JSON serializable
+{"client_id": 6259419056, "wrapper_id": 6258621808, "session_id": "606c9719-e1f7-4e1e-b895-d296948540bf", "class": "OpenAI", "json_state": "{\"base_url\": \"https://api.openai.com/v1/\", \"api_key\": null}", "timestamp": "2024-08-14 19:57:34.626538", "thread_id": 8609367552}
+[file_logger] Failed to log new agent: could not find class definition
+Started new session with Session ID: 1ecb98a4-6ba7-43f9-a8bd-e4c9b93d4a85
+[file_logger] Failed to log event Object of type OpenAIWrapper is not JSON serializable
+{"client_id": 6253307728, "wrapper_id": 6252016800, "session_id": "1ecb98a4-6ba7-43f9-a8bd-e4c9b93d4a85", "class": "OpenAI", "json_state": "{\"base_url\": \"https://api.openai.com/v1/\", \"api_key\": null}", "timestamp": "2024-08-14 19:58:18.880965", "thread_id": 8602805760}
+[file_logger] Failed to log new agent: could not find class definition
+[file_logger] Failed to log new agent: could not find class definition
+[file_logger] Failed to log event Object of type OpenAIWrapper is not JSON serializable
+{"client_id": 6253312288, "wrapper_id": 6243028480, "session_id": "1ecb98a4-6ba7-43f9-a8bd-e4c9b93d4a85", "class": "OpenAI", "json_state": "{\"base_url\": \"https://api.openai.com/v1/\", \"api_key\": null}", "timestamp": "2024-08-14 19:58:18.942310", "thread_id": 8602805760}
+[file_logger] Failed to log new agent: could not find class definition
+[file_logger] Failed to log new agent: could not find class definition
+[file_logger] Failed to log event Object of type OpenAIWrapper is not JSON serializable
+{"client_id": 6254273568, "wrapper_id": 6243601584, "session_id": "1ecb98a4-6ba7-43f9-a8bd-e4c9b93d4a85", "class": "OpenAI", "json_state": "{\"base_url\": \"https://api.openai.com/v1/\", \"api_key\": null}", "timestamp": "2024-08-14 19:58:18.999283", "thread_id": 8602805760}
+[file_logger] Failed to log new agent: could not find class definition
+Started new session with Session ID: aa00fdf2-f068-4c30-a7ee-c3c369ca64a8
+[file_logger] Failed to log event Object of type OpenAIWrapper is not JSON serializable
+{"client_id": 6322465456, "wrapper_id": 6322064512, "session_id": "aa00fdf2-f068-4c30-a7ee-c3c369ca64a8", "class": "OpenAI", "json_state": "{\"base_url\": \"https://api.openai.com/v1/\", \"api_key\": null}", "timestamp": "2024-08-14 19:58:43.439167", "thread_id": 8675276288}
+[file_logger] Failed to log new agent: could not find class definition
+[file_logger] Failed to log new agent: could not find class definition
+[file_logger] Failed to log event Object of type OpenAIWrapper is not JSON serializable
+{"client_id": 6321174288, "wrapper_id": 6273242832, "session_id": "aa00fdf2-f068-4c30-a7ee-c3c369ca64a8", "class": "OpenAI", "json_state": "{\"base_url\": \"https://api.openai.com/v1/\", \"api_key\": null}", "timestamp": "2024-08-14 19:58:43.499227", "thread_id": 8675276288}
+[file_logger] Failed to log new agent: could not find class definition
+[file_logger] Failed to log new agent: could not find class definition
+[file_logger] Failed to log event Object of type OpenAIWrapper is not JSON serializable
+{"client_id": 6323316944, "wrapper_id": 6323312816, "session_id": "aa00fdf2-f068-4c30-a7ee-c3c369ca64a8", "class": "OpenAI", "json_state": "{\"base_url\": \"https://api.openai.com/v1/\", \"api_key\": null}", "timestamp": "2024-08-14 19:58:43.553878", "thread_id": 8675276288}
+[file_logger] Failed to log new agent: could not find class definition
+[file_logger] Failed to log event Object of type OpenAIWrapper is not JSON serializable
+{"client_id": 6312184912, "wrapper_id": 6312022896, "session_id": "aa00fdf2-f068-4c30-a7ee-c3c369ca64a8", "class": "OpenAI", "json_state": "{\"base_url\": \"https://api.openai.com/v1/\", \"api_key\": null}", "timestamp": "2024-08-14 19:58:43.607369", "thread_id": 8675276288}
+[file_logger] Failed to log new agent: could not find class definition
+[file_logger] Failed to log new agent: could not find class definition
+[file_logger] Failed to log event Object of type OpenAIWrapper is not JSON serializable
+{"client_id": 6322922336, "wrapper_id": 6322918208, "session_id": "aa00fdf2-f068-4c30-a7ee-c3c369ca64a8", "class": "OpenAI", "json_state": "{\"base_url\": \"https://api.openai.com/v1/\", \"api_key\": null}", "timestamp": "2024-08-14 19:58:43.661393", "thread_id": 8675276288}
+[file_logger] Failed to log new agent: could not find class definition
+[file_logger] Failed to log new agent: could not find class definition
+[file_logger] Failed to log event Object of type OpenAIWrapper is not JSON serializable
+{"client_id": 6322924784, "wrapper_id": 6322924688, "session_id": "aa00fdf2-f068-4c30-a7ee-c3c369ca64a8", "class": "OpenAI", "json_state": "{\"base_url\": \"https://api.openai.com/v1/\", \"api_key\": null}", "timestamp": "2024-08-14 19:58:43.715114", "thread_id": 8675276288}
+[file_logger] Failed to log new agent: could not find class definition
+[file_logger] Failed to log new agent: could not find class definition
+Started new session with Session ID: 5236a167-d9dd-4c99-ad39-16ff6c9618dc
+[file_logger] Failed to log event Object of type OpenAIWrapper is not JSON serializable
+{"client_id": 6325259440, "wrapper_id": 6315968608, "session_id": "5236a167-d9dd-4c99-ad39-16ff6c9618dc", "class": "OpenAI", "json_state": "{\"base_url\": \"https://api.openai.com/v1/\", \"api_key\": null}", "timestamp": "2024-08-14 19:59:16.275837", "thread_id": 8675108352}
+[file_logger] Failed to log new agent: could not find class definition
+[file_logger] Failed to log new agent: could not find class definition
+[file_logger] Failed to log event Object of type OpenAIWrapper is not JSON serializable
+{"client_id": 6324385456, "wrapper_id": 4648478544, "session_id": "5236a167-d9dd-4c99-ad39-16ff6c9618dc", "class": "OpenAI", "json_state": "{\"base_url\": \"https://api.openai.com/v1/\", \"api_key\": null}", "timestamp": "2024-08-14 19:59:16.337957", "thread_id": 8675108352}
+[file_logger] Failed to log new agent: could not find class definition
+[file_logger] Failed to log new agent: could not find class definition
+[file_logger] Failed to log event Object of type OpenAIWrapper is not JSON serializable
+{"client_id": 6326265872, "wrapper_id": 6170846576, "session_id": "5236a167-d9dd-4c99-ad39-16ff6c9618dc", "class": "OpenAI", "json_state": "{\"base_url\": \"https://api.openai.com/v1/\", \"api_key\": null}", "timestamp": "2024-08-14 19:59:16.395967", "thread_id": 8675108352}
+[file_logger] Failed to log new agent: could not find class definition
+[file_logger] Failed to log event Object of type OpenAIWrapper is not JSON serializable
+{"client_id": 6326268368, "wrapper_id": 6325657792, "session_id": "5236a167-d9dd-4c99-ad39-16ff6c9618dc", "class": "OpenAI", "json_state": "{\"base_url\": \"https://api.openai.com/v1/\", \"api_key\": null}", "timestamp": "2024-08-14 19:59:16.452096", "thread_id": 8675108352}
+[file_logger] Failed to log new agent: could not find class definition
+[file_logger] Failed to log new agent: could not find class definition
+[file_logger] Failed to log event Object of type OpenAIWrapper is not JSON serializable
+{"client_id": 6327034720, "wrapper_id": 6323691904, "session_id": "5236a167-d9dd-4c99-ad39-16ff6c9618dc", "class": "OpenAI", "json_state": "{\"base_url\": \"https://api.openai.com/v1/\", \"api_key\": null}", "timestamp": "2024-08-14 19:59:16.508677", "thread_id": 8675108352}
+[file_logger] Failed to log new agent: could not find class definition
+[file_logger] Failed to log new agent: could not find class definition
+[file_logger] Failed to log event Object of type OpenAIWrapper is not JSON serializable
+{"client_id": 6327041200, "wrapper_id": 6327042016, "session_id": "5236a167-d9dd-4c99-ad39-16ff6c9618dc", "class": "OpenAI", "json_state": "{\"base_url\": \"https://api.openai.com/v1/\", \"api_key\": null}", "timestamp": "2024-08-14 19:59:16.566475", "thread_id": 8675108352}
+[file_logger] Failed to log new agent: could not find class definition
+[file_logger] Failed to log new agent: could not find class definition
+{"source_id": 6315244672, "source_name": "planner", "event_name": "received_message", "agent_module": "autogen.agentchat.assistant_agent", "agent_class": "AssistantAgent", "json_state": "{\"message\": \"Pathogenic variants in genes that cause dilated (DCM) and arrhythmogenic cardiomyopathies (ACM) convey high risks for the development of heart failure through unknown mechanisms. \\nUsing single nucleus RNA sequencing (snRNAseq), we characterized the transcriptome of 880000 nuclei from 18 control and 61 failing, non-ischemic human hearts with pathogenic variants in DCM and ACM genes or idiopathic disease. \\nWe performed genotype-stratified analyses of the ventricular cell lineages and transcriptional states. \\nThe resultant DCM and ACM ventricular cell atlas demonstrated distinct right and left ventricular responses, highlighting genotype-associated pathways, intercellular interactions, and differential gene expression at single cell resolution. \\nTogether these data illuminate both shared and distinct cellular and molecular architectures of human heart failure and suggest candidate therapeutic targets. The dataset in question is 'Data/compos.h5ad', which is in h5ad format. \\nUsing python as the primary coding language. Please calculate the pseudotime and visualize it in a figure.\\n\\nQuesetion:\\nThe dataset in question is 'Data/origin.h5ad', which is in h5ad format. Using python as the primary coding language.\\nPlease perform a differential expression analysis comparing the group of 'sex'\\nPlease visualize the figure in a volcano plot.\", \"sender\": \"chat_manager\", \"valid\": true}", "timestamp": "2024-08-14 19:59:16.595579", "thread_id": 8675108352}
+{"source_id": 6315244672, "source_name": "planner", "event_name": "reply_func_executed", "agent_module": "autogen.agentchat.assistant_agent", "agent_class": "AssistantAgent", "json_state": "{\"reply_func_module\": \"autogen.agentchat.conversable_agent\", \"reply_func_name\": \"check_termination_and_human_reply\", \"final\": true, \"reply\": null}", "timestamp": "2024-08-14 20:00:16.194468", "thread_id": 8675108352}
