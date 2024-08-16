@@ -58,7 +58,26 @@ work_dir will be the working directory where the analysis will be performed and 
 
 You can also follow the example notebook to run a notebook instead of scripts
 
+## Data Curation Module w/ scRNA Analysis
 
+If the investigator would like to tap into public datasets for analysis, scauto has a module to call a subset of agents that interprets critical terms within the investigator's query 
+and subsequently writes and executes code to identify a relevant single-cell dataset via the Cellxgene API.
 
+ If data curation is required, use the --data_curation flag:
 
+```{bash}
+python main.py \
+    --code_exec DockerCLI \
+    --human_input ALWAYS \
+    --logfile runtime.log \
+    --prompt {Your_prompt_file} \
+    --work_dir {Working_directory} \
+    --data_curation True \
+    --data_curation_prompt {Your_data_curation_prompt_file}
 
+```
+
+In this mode, the script will:
+
+Create a set of RAG agents to fetch and analyze data from the Cellxgene-census dataset.
+Perform bioinformatics analysis using the automated scRNA analysis agents.
